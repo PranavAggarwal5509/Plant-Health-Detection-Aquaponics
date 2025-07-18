@@ -77,4 +77,3 @@ Use of BatchNormalization for faster convergence
 
 High-quality visualizations for insights
 
-🔗 Connect with Me Feel free to connect or message for collaborations in AI for agriculture, deep learning, or data science!
